@@ -1,0 +1,155 @@
+
+body{
+    background-color: #E7E5E5;
+    margin-top: 0;
+    margin: auto;
+    width: 1280px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+
+.total-web{
+    background-color:yellow;
+    padding: 0px;
+         
+
+
+}
+
+.logo-nav img{
+    height: 50px;
+    
+    
+
+}
+
+.logo-nav{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+
+}
+
+a:hover{
+
+    color: white;
+    
+
+}
+
+nav ul li a{
+    font-size: 22px;
+}
+
+
+
+
+header{
+    background-image: url(img/portada.jpg);
+    background-repeat: no-repeat;
+
+    height: 650px;
+
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+    margin: 0;
+    padding: 0px;
+    
+
+    
+}
+
+h1{
+    margin-top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h2{
+    
+    text-align: center;
+    
+}
+
+nav{
+    /*background-color: #a3b18a;*/
+    margin: 0;
+    padding: 1px;
+    justify-content: center;
+    
+    
+
+}
+
+.barra, .redes-sociales{
+    display: flex;
+    
+    
+}
+
+
+.boton, .redes-sociales, .redes{
+    list-style-type: none;
+    /*padding: 1px 100px;*/
+    padding-right: 50px;
+    
+    
+    
+}
+
+
+.seccion-alimentos{
+    background-color: white;
+    padding: 1px;
+    
+
+    
+
+}
+
+
+.seccion-salud{
+    background-color: #a3b18a;
+    padding: 1px;
+    
+
+    
+
+}
+
+.seccion-higiene{
+    background-color: white;
+    padding: 1px;
+    
+
+    
+
+}
+
+footer{
+    background-color: #588157;
+    margin: 0;
+    padding: 1px;
+
+    height: 150px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
